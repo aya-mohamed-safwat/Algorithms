@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Algorithms\Algorithms\bin\Debug\net6.0-windows\Algorithms.exe
+C:\Users\hp\source\repos\Algorithms\Algorithms\bin\Debug\net6.0-windows\Algorithms.deps.json
+C:\Users\hp\source\repos\Algorithms\Algorithms\bin\Debug\net6.0-windows\Algorithms.runtimeconfig.json
+C:\Users\hp\source\repos\Algorithms\Algorithms\bin\Debug\net6.0-windows\Algorithms.dll
+C:\Users\hp\source\repos\Algorithms\Algorithms\bin\Debug\net6.0-windows\Algorithms.pdb
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\Algorithms.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\Algorithms.Form1.resources
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\Algorithms.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\Algorithms.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\Algorithms.AssemblyInfo.cs
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\Algorithms.dll
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\refint\Algorithms.dll
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\Algorithms.pdb
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\Algorithms.genruntimeconfig.cache
+C:\Users\hp\source\repos\Algorithms\Algorithms\obj\Debug\net6.0-windows\ref\Algorithms.dll
